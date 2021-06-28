@@ -1,0 +1,677 @@
+@media(min-width:0px) and (max-width:1024px){
+
+    .hg {
+        
+        min-height: 97vh;
+    }
+
+    .header_content h5 {
+    
+        font-size: 22px;
+    }
+
+    .header_content h1 {
+        
+        font-size: 42px;
+    } 
+
+
+
+    .header_content p {
+        
+        font-size: 21px;
+        
+    }
+
+    .phone {
+       
+        left: 55%;
+        top: 27%;
+    }
+
+
+    .feture_section div.col-md-3.feture_contentu {
+        height: 385px;
+        padding-top: 13px;
+        
+    }
+
+    .moboiak_dbb p {
+        font-size: 18px;
+        
+    }
+    .priching {
+        padding: 90px 0;
+        
+    }
+
+
+    .price p {
+        
+        font-size: 19px;
+        padding: 14px;
+        
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+@media(min-width:0px) and (max-width:769px){
+    .navbar-nav{
+ text-align: center;
+ margin-top: 40px;
+ font-size: 30px
+    }
+    .navbar-nav a.nav-link{
+ 
+     display: inline-block;
+ }
+ .hg {
+     
+     margin-top: 32px;
+ }
+ 
+ .header_content h5 {
+     
+     font-size: 16px;
+ }
+ .header_content h1 {
+     
+     font-size: 26px;
+     
+ }
+ 
+ .header_content p {
+     
+     font-size: 21px;
+     
+ }
+ 
+ .phone {
+     
+     left: 52%;
+     top: 38%;
+     width: 45%;
+ }
+ 
+ .btn-feature {
+    
+     margin-left: 5px;
+     
+ }
+ 
+ 
+ .feture_section {
+     padding: 41px 0px;
+     overflow: hidden;
+ }
+ .feture_section div.col-md-3.feture_contentu {
+     height: 279px;
+     
+     padding: 16px 6px;
+    
+ }
+ .feture_contentu p {
+     
+     font-size: 15px;
+ }
+ 
+ .mobile_2 img {
+     width: 107%;
+ }
+ 
+ .mobile2_css h3 {
+     
+     font-size: 13px;
+ }
+ 
+ .mobile2_css h1 {
+     margin-bottom: 11px;
+     
+     font-size: 22px;
+ }
+ .mobile2_css span {
+     
+     margin-bottom: 10px;
+ }
+ 
+ .mobile2_css p {
+     
+     margin-bottom: 30px;
+     font-size: 15px;
+ }
+ 
+ .mobile3nn {
+     
+     padding-top: 43px;
+     padding-bottom: 52px;
+ }
+ 
+ .moboiak_dbb h5 {
+     
+     font-size: 16px;
+     
+ }
+ .moboiak_dbb h1 {
+     
+     margin-bottom: 21px;
+     font-size: 25px;
+ }
+ 
+ .moboiak_dbb span {
+     
+     margin-bottom: 18px;
+ }
+ 
+ .moboiak_dbb p {
+     font-size: 13px;
+     
+ }
+ .mairala {
+     
+     padding: 8px;
+     
+ }
+ .mairala h1 {
+     
+     font-size: 22px;
+     
+ }
+ 
+ .malop {
+     text-align: left;
+ }
+ .btn-features {
+     margin-left: 0px;
+     
+ }
+ 
+ .btn-downloads {
+    
+     margin-left: 3px;
+ }
+ 
+ .priching {
+     padding: 35px 0px;
+     
+ }
+ 
+ .price h2 {
+     
+     font-size: 24px;
+     
+ }
+ .malops h1 {
+     font-size: 40px;
+     
+     padding-top: 10px;
+ }
+ 
+ .malops span {
+     
+     padding-bottom: 14px;
+     
+     font-size: 10px;
+    
+ }
+ .price p {
+     
+     font-size: 15px;
+     padding: 0px;
+     
+ }
+ .btn_boiid {
+     
+     font-size: 12px;
+     
+     padding: 5px 8px;
+     margin-bottom: 17px;
+     
+ }
+ .btn_boiid:hover{
+     background: #008ed6;
+     color: white;
+ 
+ 
+ }
+ .contact_ush {
+     
+     padding-top: 50px;
+     padding-bottom: 234px;
+     
+ }
+ 
+ .con_form {
+     
+     padding: 30px;
+     width: 71%;
+     
+     top: 64%;
+     
+ }
+ .clients_img {
+    
+    margin-left: 121px;
+}
+.textmonial_main p {
+    
+    text-align: center;
+} 
+ 
+ }
+ 
+ 
+ 
+ 
+ @media(min-width:0px) and (max-width:576px){
+ 
+     .phone img {
+         
+         display: none;
+     }
+ 
+ 
+ header div.row.hg{
+     text-align: center;
+ }
+ .feture_section div.col-md-3.feture_contentu {
+     
+     padding: 78px 52px 3px 82px;
+ }
+ 
+ .malop {
+     text-align: center;
+     margin-top: 5px;
+ }
+ 
+ .mairala h1 {
+    
+     text-align: center;
+     
+ }
+ 
+ .priching {
+     padding: 35px 91px;
+ }
+ .priching div.price {
+     width: 99%;
+     transition: 0.5s all ease-in-out;
+     margin-bottom: 24px;
+ }
+ .price p {
+     padding: 25px;
+     font-size: 32px;
+     /* margin-bottom: 21px; */
+ }
+ 
+ 
+ 
+ .con_form {
+     
+     padding: 12px;
+     width: 78%;
+ }
+ 
+ .map iframe{
+     
+     
+     
+     height: 70vh;
+     }
+     .footerPP {
+         
+         padding: 4px;
+     }
+ 
+ 
+     
+ 
+     @media(min-width:0px) and (max-width:426px){
+         .beautiful_mobile {
+            
+             text-align: center;
+         }
+         .header_content h5 {
+             margin-bottom: 32px;
+             font-size: 20px;
+         }
+         .mobile_2 img {
+             
+             width: 55%;
+         }
+ 
+         .mazelaki h5 {
+             font-size: 11px;
+         }
+ 
+         .mobile3nn {
+             
+             padding: 36px;
+ 
+         }
+ 
+         .mobile3nn div.col-md-6.moboiak_dbb{
+ text-align: center;
+ 
+         }
+ 
+ 
+         .moboiak_dbb p {
+            9;
+             padding: 21px;
+         }
+ .mobile2_css div.col-md-6.mobile2.css{
+     text-align: center;
+     padding: 65px;
+ }
+ 
+ .beautiful_mobile {
+     
+     text-align: center;
+ }
+ 
+ .header_content h1 {
+     font-size: 23px;
+ }
+ .header_content p {
+     font-size: 22px;
+ }
+ .hg {
+     
+     padding: 0px 15px;
+ }
+ .feture_section {
+     padding: 50px 15px;
+     
+ }
+ 
+ .headingr h1 {
+     
+     font-size: 37px;
+ }
+ 
+ .feture_section div.col-md-3.feture_contentu {
+     padding: 60px 0px;
+ }
+ 
+ .moboiak_dbb span {
+     
+     margin-bottom: 0px;
+ }
+ 
+ .moboiak_dbb p {
+     
+     padding: 0px;
+     font-size: 18px;
+     margin-bottom: 34px;
+ }
+ 
+ .mairala {
+     
+     padding: 14px 0;
+     
+ }
+ 
+ .mairala h1 {
+     
+     font-size: 20px;
+ }
+ 
+ .btn-features {
+    
+     padding: 8px 7px;
+     border: 1px solid #999999;
+     
+     font-size: 15px;
+     
+ }
+ 
+ .btn-downloads {
+     
+     padding: 8px 7px;
+     /* background: transparent; */
+     
+     font-size: 14px;
+     
+ }
+ 
+ .priching {
+     padding: 38px 15px;
+     padding: 40px 41px;
+ }
+ .price p {
+     padding: 16px;
+     font-size: 29px;
+ }
+ 
+ .headingrm h1 {
+    
+     font-size: 43px;
+ }
+ 
+ .mazelaki {
+     
+     margin-bottom: 21px;
+ }
+ .contact_ush {
+     
+     padding-bottom: 255px;
+     
+ }
+ 
+ .con_form {
+    
+     
+     top: 66%;
+     
+ }
+ .testmonial {
+   
+    padding: 40px;
+}
+.textmonial_main p {
+   
+    text-align: center;
+}
+.clients_img {
+    margin-left: 71px;
+} 
+     }
+
+  @media(min-width:0px) and (max-width:376px){
+
+    .btn-download {
+        
+        margin-bottom: 10px;
+    }
+    .clients_img {
+        
+        margin-left: 30px;
+    }
+
+
+  }
+ @media(min-width:0px) and (max-width:321px){
+ 
+ 
+     .mobile_2 img {
+         width: 50%;
+         text-align: center;
+         margin-bottom: 16px;
+     }
+ 
+ 
+ 
+     .feture_section div.col-md-3.feture_contentu {
+     
+         padding: 78px 52px 3px 82px;
+     }
+ 
+ 
+     .headingr h1 {
+         font-size: 27px;
+     }
+ 
+     .header_content h1 {
+         
+         font-size: 21px;
+         
+     }
+     .header_content h5 {
+         margin-top: 30px;
+         font-size: 17px;
+     }
+     .header_content p {
+       
+         font-size: 20px;
+         margin-bottom: 53px;
+     }
+ 
+     .btn-feature {
+         background: transparent;
+         
+         margin-top: 19px;
+         margin-left: 0px;
+     }
+ 
+     .feture_section div.col-md-3.feture_contentu {
+         padding: 46px 0px;
+         margin-bottom: 2px;
+     }
+ 
+     .mobile3nn {
+         padding: 34px 0;
+     }
+ 
+     .moboiak_dbb p {
+         
+         padding: 2px;
+         font-size: 17px;
+     }
+     .mairala {
+        
+         padding: 25px 0px;
+         
+     }
+     .mairala h1 {
+         font-size: 15px;
+         margin-bottom: 11px;
+     }
+     .malop {
+         
+         margin-top: 5px;
+         padding: 0px 16px;
+     }
+     .btn-features {
+         padding: 7px;
+         float: left;
+         font-size: 12px;
+         margin-left: 0px;
+     }
+     .btn-downloads {
+         background: transparent;
+        
+         border: 1px solid;
+        padding: 7px;
+         float: right;
+         font-size: 12px;
+     }
+     .priching {
+         padding: 45px 19px;
+ }
+         
+     
+ 
+     .headingrm h1 {
+         font-weight: 500;
+         font-size: 38px;
+         font-size: 38px;
+     }
+     .headingrm {
+         margin-bottom: 43px;
+     }
+ 
+     .price h2 {
+         
+         font-weight: 600;
+        
+     }
+ 
+     .btn_boiid {
+         font-size: 12px;
+         padding: 15px 22px;
+         margin-bottom: 17px;
+     }
+ 
+ 
+     .price:hover h2 {
+         color: #008ed6;
+         font-weight: 900;
+     }
+ 
+     .price p {
+        padding: 23px;
+        font-size: 26px;
+    }
+     .con_form {
+         padding: 17px;
+         width: 94%;
+         margin-top: 102px;
+     }
+ 
+     .mazelaki {
+         
+         margin-bottom: 30px;
+     }
+     .mazelaki h5 {
+         font-size: 16px;
+     }
+ 
+     footer p {
+         
+         font-size: 14px;
+         
+     }
+     footer {
+       
+         padding: 7px;
+     }
+     .footeri {
+         letter-spacing: 7px;
+         font-size: 18px;
+     }
+ 
+     .headingrms h5 {
+         
+         font-size: 16px;
+     }
+     .headingrms h1 {
+         
+         font-size: 40px;
+     }
+ 
+     .testmonial {
+        
+        padding: 25px;
+    }
+    .textmonial_main p {
+        color: white;
+        font-style: italic;
+        font-size: 23px;
+        text-align: center;
+    }
+
+
+
+    }
