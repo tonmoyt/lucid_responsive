@@ -471,11 +471,8 @@
  }
  
  .con_form {
-    
-     
-     top: 66%;
-     
- }
+    top: 70%;
+}
  .testmonial {
    
     padding: 40px;
@@ -499,6 +496,22 @@
         
         margin-left: 30px;
     }
+    .con_form {
+        top: 71%;
+    }
+    .headingrm h1 {
+        font-size: 40px;
+    }
+    .headingrwe h1 {
+        font-weight: 500;
+        font-size: 44px;
+        color: white;
+    }
+
+
+
+
+
 
 
   }
@@ -621,14 +634,14 @@
      }
  
      .price p {
-        padding: 23px;
-        font-size: 26px;
+        padding: 22px;
+        font-size: 22px;
     }
-     .con_form {
-         padding: 17px;
-         width: 94%;
-         margin-top: 102px;
-     }
+    .con_form {
+        padding: 17px;
+        width: 94%;
+        /* margin-top: 102px; */
+    }
  
      .mazelaki {
          
